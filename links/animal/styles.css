@@ -1,0 +1,46 @@
+.tradingcard {border: 2px solid gray;
+    border-radius: 10px;
+    width: 330px;
+    margin: 20px;
+    box-shadow: 5px 10px lightgray;
+    background-image: url(https://mocah.org/uploads/posts/5400026-grain-field-rural-crop-straw-farmland-nature-agriculture-close-up-outdoors-countryside-beige-yellow-growth-farmer-farm-wheat-creative-commons-images.jpg);
+    font-family: serif;
+}
+.cheetah{display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 15px;
+    border: 2px solid gray;
+    border-radius: 10px;
+
+}
+.title {background-color: lightgray;
+    opacity: 0.5;
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 15px;
+    font-size: large;
+
+}
+.cheetah-information{border:2px solid gray;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15px;
+    padding: 10px;
+    background-color: lightgray;
+    opacity: 0.5;
+    
+}
+.interesting-facts{font-style: italic;
+
+}
+
+ul{list-style-type: none;
+    padding: 0;
+
+}
+span{font-weight: bold;
+}
